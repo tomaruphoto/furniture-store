@@ -2,7 +2,8 @@
 
 🔗 https://tomaruphoto.github.io/furniture-store/
 
-架空の家具販売サイトです。HTML、CSS、JavaScriptで制作しました。
+架空の家具販売サイトです。
+[codejump](https://code-jump.com/coding-recommend/)の模写課題を元に、HTML、CSS、JavaScriptで制作しました。
 レスポンシブ対応しています
 
 ## クレジット
