@@ -61,7 +61,7 @@ const items = [
         price: 99999
     },
     {
-        //写真:Kellin McClintock(https://unsplash.com/ja/@kelli_mcclintock)
+        //写真:Kelli McClintock(https://unsplash.com/ja/@kelli_mcclintock)
         img: "img/kelli-mcclintock-sidetable.jpg",
         id: "sidetable",
         name: "サイドテーブル",
